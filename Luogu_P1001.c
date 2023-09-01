@@ -14,3 +14,5 @@ int main()
 	printf("%d\n", sum);
     return 0;
 }
+//time:30ms  用时：30ms
+//RAM：784KB 内存：784KB
